@@ -1,5 +1,5 @@
-application: golang-org
-version: talks-test
+application: zh-golang
+version: talks
 runtime: go
 api_version: go1
 
