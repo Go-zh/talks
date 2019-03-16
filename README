@@ -2,7 +2,7 @@ This repository holds various Go talks that may be viewed with the present tool.
 
 To install the present tool, use go get:
 
-	go get golang.org/x/tools/cmd/present
+	go get github.com/Go-zh/tools/cmd/present
 
 To deploy these talks to App Engine, copy the contents of tools/cmd/present to
 the root of this repository and run:
